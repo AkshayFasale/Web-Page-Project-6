@@ -1,0 +1,154 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+#navbarMonstera {
+    height: 15vh;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 5%;
+
+}
+
+#navMid {
+    display: flex;
+    flex-direction: row;
+}
+
+#navMid>div {
+    margin: 0 50px;
+}
+
+#navMid>div>h4 {
+    font-family: 'Allerta';
+    font-weight: 400;
+    font-size: 20px;
+}
+
+#navEnd {
+    display: flex;
+    flex-direction: row;
+}
+
+#navEnd>div {
+    margin: 0 15px;
+}
+
+#imgMain {
+    position: absolute;
+    height: 700px;
+    right: 0;
+    bottom: 0;
+}
+
+#midWholePart11 {
+    position: absolute;
+    top: 30%;
+}
+
+#monstera {
+    font-family: 'Allerta';
+    font-size: 120px;
+    font-weight: 900;
+    margin: 0;
+    padding: 0;
+}
+
+#midwholePart11>div>ul>li {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 300;
+    font-family: "Allerta";
+
+}
+
+#midWholePart12 {
+    background-color: #466d50;
+    border-radius: 35px;
+    padding: 0;
+    margin: 0;
+    height: 60px;
+    width: 260px;
+    position: absolute;
+    bottom: 25%;
+    left: 5%;
+}
+
+#midWholePart121>div>h1 {
+    text-align: center;
+    position: absolute;
+    margin-top: 3%;
+    left: 8%;
+    color: #ffffff;
+    font-family: "Allerta";
+    font-weight: 100;
+    font-size: 35px;
+}
+
+#midWholePart122>img {
+    position: absolute;
+    left: 80%;
+    margin-top: 7%;
+}
+
+#midWholePart13 {
+    display: flex;
+    position: absolute;
+    align-items: center;
+    bottom: 5%;
+    column-gap: 20px;
+}
+
+.feeding {
+    position: absolute;
+    bottom: 0;
+    background-color: #fff;
+}
+
+#light {
+    position: absolute;
+    bottom: 0;
+    background-color: #ffffff;
+}
+
+#care {
+    position: absolute;
+    bottom: 0;
+    background-color: #ffffff;
+}
+
+#midWholePart13 :nth-child(2)>div>h4 {
+    margin-left: 50px;
+}
+
+#midWholePart13 :nth-child(3)>div>h4 {
+    margin-left: 70px;
+}
+
+#midWholePart13 :first-child>div>h4 {
+    margin-left: 100px;
+}
+
+#midWholePart13 :nth-child(2)>div>p {
+    margin-left: 50px;
+}
+
+#midWholePart13 :nth-child(3)>div>p {
+    margin-left: 70px;
+}
+
+#midWholePart13 :first-child>div>p {
+    margin-left: 100px;
+}
+
+#midWholePart13 :nth-child(2)>div>img {
+    margin-bottom: 15px;
+}
+
+#midWholePart13 :nth-child(3)>div>img {
+    margin-bottom: 15px;
+}
